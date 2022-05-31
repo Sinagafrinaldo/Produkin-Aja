@@ -30,32 +30,32 @@ https://github.com/Sinagafrinaldo/Produkin-Aja
 
 ### Home
 
-<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-1.jpg' width=20% height=20% />
+<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-1.jpg' width=30% height=30% />
 
 ### Detail Produk
 
-<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-2.jpg' width=20% height=20% />
+<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-2.jpg' width=30% height=30% />
 
 ### Hamburger Menu
 
-<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-3.jpg' width=20% height=20% />
+<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-3.jpg' width=30% height=30% />
 
 ### Info Aplikasi
 
 
-<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-4.jpg' width=20% height=20% />
+<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-4.jpg'  width=30% height=30% />
 
 ### Keranjang
 
 
-<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-5.jpg' width=20% height=20% />
+<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-5.jpg'  width=30% height=30% />
 
 ### Menghapus Dari Keranjang
 
 
-<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-7.jpg' width=20% height=20% />
+<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-7.jpg'  width=30% height=30% />
 
 ### Menambah data ke keranjang
 
 
-<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-8.jpg' width=20% height=20% />
+<img src='https://raw.githubusercontent.com/Sinagafrinaldo/Produkin-Aja/main/screenshoot/gambar-8.jpg'  width=30% height=30% />
