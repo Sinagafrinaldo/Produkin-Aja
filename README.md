@@ -2,6 +2,7 @@
 ### Oleh
 ### Frinaldo Sinaga - 119140064
 ### Joy Ravelo Tarigan - 119140037
+### Kelas : RC
 
 Aplikasi ini merupakan aplikasi yang berfungsi menampilkan daftar produk yang tersedia dari sumber API yang telah dibuat dengan menggunakan framework Laravel. Laravel di hosting di situs heroku agar dapat di fetch dengan menggunakan konsep redux.
 
